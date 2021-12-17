@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name            浙江省考研准考证下载
 // @namespace       http://tampermonkey.net/
-// @updateURL       https://raw.githubusercontent.com/ParticleG/zkzdownload/main/main.js
-// @downloadURL     https://raw.githubusercontent.com/ParticleG/zkzdownload/main/main.js
+// @updateURL       https://raw.githubusercontent.com/ParticleG/zkzdownload/main/dist.user.js
+// @downloadURL     https://raw.githubusercontent.com/ParticleG/zkzdownload/main/dist.user.js
 // @version         0.1
 // @description     try to take over the world!
 // @author          Particle_G
